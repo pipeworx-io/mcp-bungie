@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-bungie",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Bungie.net Platform API MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-60f9b506dbd0cca98e74de028c285ac0b52dba3871bfeab43f1deb7d2e2a4d6c",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-504d81c0fc35eb6fb4c9a5d91678ce2b0af184bd3d9b8848a56fa3a3a3596e95",
+    "sourceCommit": "babdd280d475dceddecc9ebf8f2a661712781a81"
   }
 }
