@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/bungie",
   "title": "Bungie",
   "description": "Bungie.net Platform API MCP.",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "websiteUrl": "https://pipeworx.io/packs/bungie",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-bungie",
