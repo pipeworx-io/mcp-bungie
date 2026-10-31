@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-bungie",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Bungie.net Platform API MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "bungie",
     "gatewaySlug": "bungie",
-    "sourceHash": "v1-dbde99fdb1331d8e4c103e8ac6715fca4447a49c64f53e318ea08fce2af3b36b",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-ad32ed33bc8fd3f0c444195a414cfdefb7c16ba56f2031cb54adbded5835b872",
+    "sourceCommit": "547a3983b42dacf4389ca474860b0a1dee8e6053"
   }
 }
